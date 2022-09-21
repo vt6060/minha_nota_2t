@@ -1,1 +1,2 @@
-# minha_nota_2t
+# minha_nota_2
+aluno:Vitor Hugo Yankauskas numero:35
